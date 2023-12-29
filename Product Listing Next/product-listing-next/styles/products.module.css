@@ -1,0 +1,48 @@
+.productCard {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #D3D3D3;
+  margin-right: 20px;
+  padding-top: 30px;
+  width: 828px;
+  height: 400px;
+  padding: 36px;
+  border-radius: 24px;
+  gap: 30px;
+}
+
+.offer-section {
+  background-color: #EEF5F0;
+  text-align: left;
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 15px;
+  letter-spacing: 0em;
+  display: inline-flex;
+  float: left;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  color: #519C66;
+}
+
+.productImage {
+  width: 50%;
+  height: 50%;
+  border-radius: 8px;
+  float: left;
+}
+
+.productInfo {
+  margin-top: 12px;
+}
+
+.productTitle {
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+.productDescription {
+  color: #666;
+}
